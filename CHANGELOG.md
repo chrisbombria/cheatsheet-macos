@@ -1,5 +1,21 @@
 # Changelog
 
+## [0.3.0](https://github.com/chrisbombria/cheatsheet-macos/compare/v0.2.1...v0.3.0) (2024-06-28)
+
+
+### Features
+
+* **gh-actions:** add lint-pr-title ([#49](https://github.com/chrisbombria/cheatsheet-macos/issues/49)) ([40d6a07](https://github.com/chrisbombria/cheatsheet-macos/commit/40d6a07e7277942d6fce1e7fa72c5a333fab8dce))
+* **gh:** add default GitHub repo files ([#59](https://github.com/chrisbombria/cheatsheet-macos/issues/59)) ([ade67f3](https://github.com/chrisbombria/cheatsheet-macos/commit/ade67f3cf8556971bd8f70092060885e7b34f45b))
+* **gh:** add default GitHub repo files ([#61](https://github.com/chrisbombria/cheatsheet-macos/issues/61)) ([8183250](https://github.com/chrisbombria/cheatsheet-macos/commit/8183250eafb7880a14b3bcec85841d3fe2b95465))
+* **gh:** add default GitHub repo files ([#62](https://github.com/chrisbombria/cheatsheet-macos/issues/62)) ([5bc030b](https://github.com/chrisbombria/cheatsheet-macos/commit/5bc030bb54f794b13344739940d186fe029cfe0a))
+* **gha:** unify GHA - renovate, megalinter, markdown, and others ([#54](https://github.com/chrisbombria/cheatsheet-macos/issues/54)) ([8f8a06d](https://github.com/chrisbombria/cheatsheet-macos/commit/8f8a06daba9a8c94877e2cd55a879faff27acb60))
+
+
+### Bug Fixes
+
+* **gha:** use script in release + README update ([#57](https://github.com/chrisbombria/cheatsheet-macos/issues/57)) ([54b3a50](https://github.com/chrisbombria/cheatsheet-macos/commit/54b3a50c8819b2d4facb0dcc07c2aef2979c7282))
+
 ## [0.2.1](https://github.com/ruzickap/cheatsheet-macos/compare/v0.2.0...v0.2.1) (2024-01-30)
 
 
